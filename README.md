@@ -1,2 +1,146 @@
 # Test-2
-<title>Renewable Energy News – CCE Weekly Digest</title> <style> body { font-family: Arial, sans-serif; background: #000a60; color: #000000; margin: 0; padding: 0; } header { background: #000a60; color: white; padding: 1em; text-align: center; } section { max-width: 960px; margin: 20px auto; padding: 10px; background: white; border-radius: 8px; } h2 { border-bottom: 2px solid #ccc; padding-bottom: 5px; } article { margin: 15px 0; padding: 10px; border-left: 4px solid #000a60; } article h3 { margin: 0 0 5px 0; } .meta { font-size: 0.9em; color: #666; } .tags { margin-top: 5px; font-size: 0.9em; color: #444; } footer { text-align: center; padding: 20px; color: #000; } </style> <body> <header> <h1>🔄 Weekly Renewable Energy News Briefing (CEE Region)</h1> <p><em>Coverage: June 30 – July 6, 2025</em></p> </header> <section> <h2>🇧🇬 Bulgaria</h2> <article> <h3>Solaris launches 59.8 MW hybrid solar + 107 MWh BESS near Vratsa</h3> <div class="meta">Published: 5 days ago | Source: Balkan Green Energy News</div> <p>Solaris Holding inaugurated the Selanovtsi hybrid power plant (59.8 MW solar + 107.3 MWh battery) near Vratsa. It is expected to supply 79.9 GWh annually—enough for ~22,000 homes—and is financed by UBB and Varengold Bank :contentReference[oaicite:1]{index=1}.</p> <div class="tags">Tags: Solar, BESS, Hybrid | Bulgaria</div> </article> <article> <h3>Sigenergy installs modular 20 MWh BESS in Malko Tarnovo</h3> <div class="meta">Published: June 6, 2025 | Source: Renewables Now</div> <p>Chinese firm Sigenergy completed a 20 MWh modular battery system integrated with a solar facility in southern Bulgaria, built in just 10 days without cranes. The BESS will smooth out solar output and stabilize the grid :contentReference[oaicite:2]{index=2}.</p> <div class="tags">Tags: Battery Storage, Grid Stability | Bulgaria</div> </article> <article> <h3>“EU’s largest” 124 MW / 496 MWh BESS commissioned in Lovech</h3> <div class="meta">Published: last month | Source: Power Magazine / Renewables Now</div> <p>Bulgaria opened a 124 MW / 496 MWh battery plant at Balkan Industrial Park in Lovech—currently the largest BESS in the EU. Developed by Advance Green Energy, it will store cheap electricity to discharge during peak demand :contentReference[oaicite:3]{index=3}.</p> <div class="tags">Tags: Battery Storage, Infrastructure | Bulgaria</div> </article> </section> <section> <h2>🇲🇰 North Macedonia</h2> <article> <h3>Solar plants generate 28.9 GWh in April 2025</h3> <div class="meta">Published: July 5, 2025 | Source: PV KnowHow</div> <p>North Macedonian solar installations produced 28,904 MWh in April, reflecting strong growth. The government plans a 30 MW solar tender to further boost capacity and manufacturing :contentReference[oaicite:4]{index=4}.</p> <div class="tags">Tags: Solar, Production Stats, Tender | North Macedonia</div> </article> <article> <h3>Wind farm expansion enters final phase</h3> <div class="meta">Published: ~3 weeks ago | Source: CE Energy News</div> <p>The Bogdanci wind farm expansion (adding four 3.4 MW turbines, total ~50 MW) has entered its final phase. Backed by Siemens Gamesa, KfW, and WBIF, full operations are expected post-2026 :contentReference[oaicite:5]{index=5}.</p> <div class="tags">Tags: Windfarm, Investment | North Macedonia</div> </article> <article> <h3>CMS outlines new energy & renewables laws</h3> <div class="meta">Published: June 13, 2025 | Source: Balkan Green Energy News</div> <p>New North Macedonian Energy and Renewable laws introduce financial guarantees, annual construction plans, and alignment with EU’s Clean Energy Package. The reforms aim to create more predictable investment conditions :contentReference[oaicite:6]{index=6}.</p> <div class="tags">Tags: Policy, Regulation, EU Alignment | North Macedonia</div> </article> </section> <section> <h2>🇭🇺 Hungary</h2> <article> <h3>Hungary reaches ~25 % solar share in 2024</h3> <div class="meta">Published: 3 days ago | Source: PV KnowHow / Wikipedia</div> <p>Solar accounted for nearly 25 % of Hungary's electricity in 2024, with capacity exceeding 7.5 GW—an EU-leading share. Growth driven by household and utility-scale installations :contentReference[oaicite:7]{index=7}.</p> <div class="tags">Tags: Solar, Market Share, Capacity | Hungary</div> </article> <article> <h3>MET Group launches 40 MW BESS at Dunamenti plant</h3> <div class="meta">Published: ~2 weeks ago | Source: Yahoo / Reddit / Balkan Green Energy News</div> <p>MET Group activated a 40 MW / 2‑hour battery storage facility at Dunamenti gas plant near Budapest—currently Hungary’s largest BESS—enhancing grid flexibility :contentReference[oaicite:8]{index=8}.</p> <div class="tags">Tags: Battery Storage, Grid Flexibility | Hungary</div> </article> <article> <h3>Co-located BESS regulations clarified</h3> <div class="meta">Published: 3 months ago | Source: WolfTheiss Insights</div> <p>Hungary updated electricity law and MAVIR code to regulate BESS systems co-located with solar plants (≥0.5 MW), improving shared infrastructure agreements. The move boosts solar + storage growth :contentReference[oaicite:9]{index=9}.</p> <div class="tags">Tags: Policy, BESS, Regulation | Hungary</div> </article> </section> <section> <h2>🇷🇴 Romania</h2> <article> <h3>Longi invests €110 m in 159 MW CEE solar projects including Romania</h3> <div class="meta">Published: last week | Source: Balkan Green Energy News</div> <p>LONGi commits €110 m toward photovoltaic projects in 23 CEE properties and greenfield sites in Romania (total 159 MW). Program covers 6% of investor portfolio's electricity and targets 84 % renewables :contentReference[oaicite:10]{index=10}.</p> <div class="tags">Tags: Solar, Investment, CEE | Romania</div> </article> <article> <h3>Romania modernisation fund allocates 325 m lei to 47 solar parks</h3> <div class="meta">Published: ~3 weeks ago | Source: CE Energy News</div> <p>Romanian Modernisation Fund awarded 325 m lei (~€65 m) to support 47 public-sector solar parks—boosting solar rollout and public decarbonization across the country :contentReference[oaicite:11]{index=11}.</p> <div class="tags">Tags: Solar, Subsidy, Public | Romania</div> </article> <article> <h3>Ialomița Nord wind farm approved under CfD scheme</h3> <div class="meta">Published: 4 weeks ago | Source: CE Energy News</div> <p>Romanian Energy Regulator granted construction permit for Ialomița Nord, one of the country’s largest wind farms, supported by Contracts for Difference. The project advances green power targets :contentReference[oaicite:12]{index=12}.</p> <div class="tags">Tags: Windfarm, Policy, CfD | Romania</div> </article> </section> <section> <h2>🌍 International / Regional</h2> <article> <h3>Montenegro sets solar auction for 250 MW</h3> <div class="meta">Published: July 6, 2025 | Source: Balkan Green Energy News</div> <p>Montenegro will initiate an auction for 250 MW of solar projects with a specified state support cap—could serve as regional auction model :contentReference[oaicite:13]{index=13}.</p> <div class="tags">Tags: Solar Auction, Regional | International</div> </article> <article> <h3>EU’s Modernisation Fund disburses €3.66 bn across CEE</h3> <div class="meta">Published: July 4, 2025 | Source: Balkan Green Energy News</div> <p>The EU Modernisation Fund has allocated €3.66 bn to nine countries—including Romania—for renewable, grids, storage, and energy-efficiency projects :contentReference[oaicite:14]{index=14}.</p> <div class="tags">Tags: Funding, Regional, EU | International</div> </article> <article> <h3>Serbia–North Macedonia gas interconnector planned</h3> <div class="meta">Published: July 3, 2025 | Source: Balkan Green Energy News</div> <p>Serbia’s Srbijagas and North Macedonia’s Nomagas are working on a gas interconnector project—strategically important for regional energy diversification :contentReference[oaicite:15]{index=15}.</p> <div class="tags">Tags: Gas, Interconnection | International</div> </article> </section> <section> <h2>🔙 Last Month Recap (June 2025)</h2> <ul> <li>Bulgaria commissioned two large BESS projects: 496 MWh Lovech and 20 MWh Malko Tarnovo.</li> <li>North Macedonia advanced its Renewables Act, solar production (28.9 GWh), and wind farm expansion.</li> <li>Hungary surpassed 7.5 GW of solar capacity (25 % share) and rolled out utility-scale and co-located BESS.</li> <li>Romania secured €65 m for public solar parks, granted wind project permits, and saw strong CEE solar investment.</li> </ul> </section> <section> <h2>🔎 Analysis & Process Review</h2> <p>This week shows strong momentum in **battery storage**, especially Bulgaria and Hungary, with multiple utility‑scale BESS steps. **Solar expansion** remains robust across all countries, backed by investment and public‑sector funding. **Policy** continues advancing—North Macedonia finalizing energy laws, Romania deploying CfD-backed projects. Notably, **wind development** remains slower but progressing via targeted projects.</p> <p>To improve, we could: (1) integrate automated NLP tagging to highlight entities like Siemens Gamesa, Advance Green; (2) add visual trend graphs in Google Doc (e.g., # of BESS projects/week); (3) add live feed from PV‑specific sources for real-time alerts.</p> </section> <footer> <p>End of Weekly Digest | Archived in Google Doc for July 6, 2025</p> </footer> </body>
+<div style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; background-color: #ffffff; color: #000000;">
+  <h1 style="background-color: #002b5c; color: white; padding: 20px;">Renewable Energy News - CCE Weekly Digest</h1>
+
+  <h2>🇧🇬 Bulgaria – Weekly Highlights</h2>
+  <ol>
+    <li>
+      <strong>Bulgaria's Renewables Market Catches Second Wind</strong><br/>
+      <strong>Date:</strong> Last week<br/>
+      <strong>Source:</strong> CEE Legal Matters<br/>
+      <strong>Summary:</strong> In 2024, Bulgaria added nearly 1 GW of renewable capacity (mostly solar). Hybrid projects like the 238 MW Tenevo plant—with solar, wind, and storage—are emerging. Two storage auctions under the National Recovery & Resilience Plan aim to add 1 GW storage by 2026. Corporate PPAs are on the rise despite no new state subsidies.<br/>
+      <a href="https://ceelegalmatters.com/magazine-articles/30014-bulgaria-s-renewables-market-catches-second-wind?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Greece's PPC to add 88 MW solar farm in Bulgaria</strong><br/>
+      <strong>Date:</strong> Last month<br/>
+      <strong>Source:</strong> Renewables Now<br/>
+      <strong>Summary:</strong> PPC SA is building an 88 MW solar farm in Vedrare, Bulgaria, expected online Q1 2026. Features include 18,500 bifacial panels and a string of substations and trackers. Adds to PPC’s existing 165 MW solar + 25 MW/55 MWh storage portfolio.<br/>
+      <a href="https://renewablesnow.com/news/greeces-ppc-to-beef-up-bulgaria-portfolio-with-88-mw-solar-farm-1276221/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Bulgaria to fund €583 M in renewable energy storage projects</strong><br/>
+      <strong>Date:</strong> ~2 months ago<br/>
+      <strong>Source:</strong> SeeNews<br/>
+      <strong>Summary:</strong> The Bulgarian energy ministry launched EU‑funded support (BGN 1.15 B/€583 M) for 82 standalone storage projects totaling 9.7 GWh capacity, covering 50% of construction costs.<br/>
+      <a href="https://seenews.com/news/bulgaria-to-fund-583-mln-euro-renewable-energy-storage-projects-1274005?utm_source=chatgpt.com">Read more</a> /
+      <a href="https://www.energy-storage.news/bulgaria-finalises-e600-million-funding-for-nearly-10gwh-of-energy-storage/?utm_source=chatgpt.com">Energy Storage News</a>
+    </li>
+  </ol>
+
+  <h2>🇲🇰 North Macedonia – Weekly Highlights</h2>
+  <ol>
+    <li>
+      <strong>Solar energy generated 28.9 GWh in April 2025</strong><br/>
+      <strong>Date:</strong> 2 days ago<br/>
+      <strong>Source:</strong> PVKnowhow<br/>
+      <strong>Summary:</strong> In April, solar plants produced 28.4 GWh. A government tender (30 MW) is underway, with domestic panel manufacturing gaining traction.<br/>
+      <a href="https://www.pvknowhow.com/news/north-macedonia-solar-energy-generated-28904-mwh-in-april-2025-a-stunning-achievement/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Interview: New energy laws unpacked</strong><br/>
+      <strong>Date:</strong> June 13, 2025<br/>
+      <strong>Source:</strong> Balkan Green Energy News<br/>
+      <strong>Summary:</strong> New Energy and Renewables Laws align Macedonia with the EU Clean Energy Package. Marija Jelčić explains stricter permitting (financial guarantees, annual construction plans) and improved regulatory predictability.<br/>
+      <a href="https://balkangreenenergynews.com/marija-filipovska-jelcic-of-cms-unpacks-new-provisions-in-north-macedonias-new-energy-laws/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Issuance of first Guarantees of Origin (GoO)</strong><br/>
+      <strong>Date:</strong> Last month<br/>
+      <strong>Source:</strong> Serbia-Energy.eu<br/>
+      <strong>Summary:</strong> Macedonia issued its first GoOs to state-owned hydropower utility ESM—marking formal certification of renewable electricity.<br/>
+      <a href="https://serbia-energy.eu/north-macedonia-issues-first-renewable-energy-certificates-to-esm/?utm_source=chatgpt.com">Read more</a>
+    </li>
+  </ol>
+
+  <h2>🇭🇺 Hungary – Weekly Highlights</h2>
+  <ol>
+    <li>
+      <strong>Solar reaches 25% of electricity generation</strong><br/>
+      <strong>Date:</strong> 3 days ago<br/>
+      <strong>Source:</strong> PVKnowhow<br/>
+      <strong>Summary:</strong> Solar hit record output (~3,711 MW) on Sept 27, accounting for 25% of peak domestic generation. Installed capacity now ~5,463 MW (incl. 1,095 MW residential).<br/>
+      <a href="https://www.pvknowhow.com/news/hungary-solar-energy-achieves-25-generation-3-amazing-milestones/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Hungary launches €124 M storage funding</strong><br/>
+      <strong>Date:</strong> ~3 weeks ago<br/>
+      <strong>Source:</strong> LinkedIn / Wikipedia<br/>
+      <strong>Summary:</strong> Under the Jedlik Ányos Energy Program, Hungary opened a public consultation for a €124 M grant scheme (25K–2.5M per project) to support storage and renewable energy deployments.<br/>
+      <a href="https://www.linkedin.com/pulse/hungary-launches-new-support-scheme-renewable-energy-storage-v0iie?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Photon Energy managing 57 MWp solar farm</strong><br/>
+      <strong>Date:</strong> 3 months ago<br/>
+      <strong>Source:</strong> Renewables Now<br/>
+      <strong>Summary:</strong> Photon Energy NV won a contract to manage Greenvolt’s 57 MWp Királyegyházá solar farm in southern Hungary—including full O&M services.<br/>
+      <a href="https://renewablesnow.com/news/photon-energy-to-manage-greenvolts-57-mwp-solar-farm-in-hungary-1272223/?utm_source=chatgpt.com">Read more</a>
+    </li>
+  </ol>
+
+  <h2>🇷🇴 Romania – Weekly Highlights</h2>
+  <ol>
+    <li>
+      <strong>Romania aims to double electricity production by 2032</strong><br/>
+      <strong>Date:</strong> Feb 21, 2025<br/>
+      <strong>Source:</strong> Agerpres<br/>
+      <strong>Summary:</strong> Energy Minister Burduja outlined plans to double generation via 10 GW solar+wind, 3.5 GW gas, 2.2 GW nuclear, 500 MW hydro, and 1 GW pumped/storage and batteries—all supported by EU recovery funds.<br/>
+      <a href="https://agerpres.ro/english/2025/02/21/energymin-burduja-romania-maintains-its-assessment-that-by-2032-it-will-double-its-electricity-produ--1424497?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Strategy targets 41.1% renewables by 2035, 86.1% by 2050</strong><br/>
+      <strong>Date:</strong> June 17, 2024<br/>
+      <strong>Source:</strong> EnergyWorld<br/>
+      <strong>Summary:</strong> Romania’s Energy Strategy projects renewables share rising to 41.1% by 2035 and 86.1% by 2050 via hydro, wind, solar, geothermal, biomass, hydrogen, and biogas.<br/>
+      <a href="https://energyworld.ro/2024/06/17/romania-romanias-objective-regarding-the-share-of-energy-from-renewable-sources-in-total-consumption-is-86-1-in-2050-strategy-project/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Draft NECP calls for biomass heating reduction</strong><br/>
+      <strong>Date:</strong> ~2024<br/>
+      <strong>Source:</strong> WWF Romania<br/>
+      <strong>Summary:</strong> Revised National Energy and Climate Plan proposes cutting biomass heating from 97% (2020) to 64% (2030), while tripling electricity from biomass from 4% to 12%. Thermal pump targets lack clear implementation steps.<br/>
+      <a href="https://wwf.ro/wp-content/uploads/2024/04/C4.5-Better-planning-of-biomass-in-the-Romanian-NECP_EN.docx.pdf?utm_source=chatgpt.com">Read more</a>
+    </li>
+  </ol>
+
+  <h2>🌍 International News</h2>
+  <ol>
+    <li>
+      <strong>Hungary leads EU: 25% solar share in 2024</strong><br/>
+      <strong>Date:</strong> Apr 9, 2025<br/>
+      <strong>Source:</strong> Montel / Renewables Now<br/>
+      <strong>Summary:</strong> Hungary topped EU countries with solar accounting for 25% of total electricity in 2024—the highest among member states.<br/>
+      <a href="https://montelnews.com/news/f465d3a4-d196-4c8b-854f-ecd80cfac766/hungarys-25-solar-share-worlds-highest-in-2024-think-tank?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>MVM installs 20 MWh storage in Western Hungary</strong><br/>
+      <strong>Date:</strong> ~3 months ago<br/>
+      <strong>Source:</strong> CEEnergyNews<br/>
+      <strong>Summary:</strong> MVM Green Generation initiated construction of a 20 MWh battery facility in Sopronkövesd to stabilize regional grid and integrate renewables.<br/>
+      <a href="https://ceenergynews.com/renewables/mvm-new-energy-storage-western-hungary/?utm_source=chatgpt.com">Read more</a>
+    </li>
+    <li>
+      <strong>Uniper begins 151 MW PV construction in Hungary</strong><br/>
+      <strong>Date:</strong> 4 months ago<br/>
+      <strong>Source:</strong> reNews<br/>
+      <strong>Summary:</strong> Uniper started building two Hungarian solar parks totaling 151 MW (90 MW and 61 MW), expected online by 2026–27, powering ~92,000 households.<br/>
+      <a href="https://renews.biz/99106/uniper-starts-construction-phase-for-hungarian-pv-plants/?utm_source=chatgpt.com">Read more</a>
+    </li>
+  </ol>
+
+  <h2>🔄 Last Month – Notable Mentions</h2>
+  <ul>
+    <li><a href="https://balkangreenenergynews.com/bulgaria-boosts-renewables-capacity-by-938-mw-in-2024/?utm_source=chatgpt.com">Bulgaria added 938 MW renewables in 2024</a> (mostly solar, no new wind farms)</li>
+    <li><a href="https://www.terna-energy.com/financial-press-release/terna-energy-new-investment-in-bulgarias-renewable-energy-market/?utm_source=chatgpt.com">Terna Energy to build 130 MW PV in Burgas</a> by end-2026</li>
+    <li><a href="https://seenews.com/news/north-macedonias-renewable-energy-output-edges-down-yy-in-may-1276650?utm_source=chatgpt.com">North Macedonia’s renewable output eased slightly y/y in May</a>: 49,058 MWh (-1.4%)</li>
+  </ul>
+
+  <h2>🛠 Process Improvement Opportunities</h2>
+  <ul>
+    <li><strong>Automate monitoring:</strong> Use APIs/RSS feeds from key regional outlets and EU/EBRD pressrooms to collate news automatically.</li>
+    <li><strong>Event detection:</strong> Implement NLP-based topic clustering to detect major cross-border projects (e.g., hybrid plants).</li>
+    <li><strong>Entity extraction:</strong> Automatically tag mentions of EBRD, EU funding, PPAs, etc., to assist filtering.</li>
+    <li><strong>Visual analytics:</strong> Add dashboards for capacity trends, investment volume, and timeline mapping.</li>
+    <li><strong>Frequency tuning:</strong> If news is light, consider bi-weekly updates; when output surges, remain weekly with curation.</li>
+  </ul>
+</div>add live feed from PV‑specific sources for real-time alerts.</p> </section> <footer> <p>End of Weekly Digest | Archived in Google Doc for July 6, 2025</p> </footer> </body>
